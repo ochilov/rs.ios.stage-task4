@@ -1,9 +1,5 @@
 import Foundation
 
-private struct RomanSymbol {
-	
-}
-
 public extension Int {
 	
 	var roman: String? {
